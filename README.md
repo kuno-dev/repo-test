@@ -21,7 +21,7 @@ git commit -m "Initialize"
 ```
 
 ```sh
-git branch -m main
+git branch -M main
 ```
 
 ```sh
